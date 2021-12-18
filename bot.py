@@ -1,9 +1,9 @@
 """ !/usr/bin/env python3
     -*- coding: utf-8 -*-
-    Name     : inline-tube-mate [ Telegram ]
-    Repo     : https://github.com/m4mallu/inine-tube-mate
-    Author   : Renjith Mangal [ https://t.me/space4renjith ]
-    Credits  : https://github.com/SpEcHiDe/AnyDLBot """
+    Name     : YoutubeDLBot [ Telegram ]
+    Repo     : https://github.com
+    Author   : Fake Raser [ https://t.me/fakeraser ]
+    Credits  : https://github.com/TeamInfinityGo """
 
 import os
 from pyrogram import Client
